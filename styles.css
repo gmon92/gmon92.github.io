@@ -61,9 +61,9 @@ nav a:hover {
     border-radius: 5px;
 }
 
-/* Hero Section */
+
 #hero {
-    background-image: url('hero.jpg');
+    background-image: url('hero.png');
     background-size: cover;
     background-position: center;
     height: 50vh;
