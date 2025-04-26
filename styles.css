@@ -87,17 +87,12 @@ nav a:hover {
 }
 
 .cta-button {
-    background-color: #ffcc00;
-    color: #222;
-    padding: 12px 24px;
-    font-size: 1.2em;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background 0.3s;
+    transition: background 0.3s, transform 0.3s;
 }
 
 .cta-button:hover {
     background-color: #e6b800;
+    transform: scale(1.05);
 }
 
 /* Services Section */
